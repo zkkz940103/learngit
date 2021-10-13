@@ -4,3 +4,4 @@ new file
 checkout
 branch
 checkout master
+BUG修改
