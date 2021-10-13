@@ -3,4 +3,4 @@ change something
 new file
 checkout
 branch
-check out master
+checkout master
