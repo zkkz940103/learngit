@@ -5,3 +5,4 @@ checkout
 branch
 checkout master
 BUG修改
+branch commit
